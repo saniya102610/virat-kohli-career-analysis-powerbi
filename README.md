@@ -1,6 +1,4 @@
 
-
-```markdown
 # 📊 Virat Kohli Career Statistics Dashboard (2008–2025)
 
 ## 📌 Overview  
@@ -44,7 +42,7 @@ Virat-Kohli-Dashboard/
 
 ```
 
----
+
 
 ## 📊 Dashboard Features  
 
